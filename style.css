@@ -19,7 +19,7 @@ body{
     align-items: center;
     padding-top: 80px;
     padding-bottom: 100px;
-    background-image: url("/Registration/SVGs/registration__pattern.svg");
+    background-image: url("./SVGs/registration__pattern.svg");
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
